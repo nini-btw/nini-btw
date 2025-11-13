@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi! I’m **Mohammed Elamine Denideni**, a **Full Stack Developer** from **Algeria** passionate about building clean, scalable, and impactful web applications.<br><br>💻 I specialize in **TypeScript**, **React**, **Next.js**, and **NestJS**, with hands-on experience in **MongoDB**, **Prisma**, and **SQL** databases. I enjoy crafting robust backend systems and pairing them with elegant, responsive frontends using **Tailwind CSS**, **shadcn/ui**, and **GSAP** for modern animations.<br><br>🚀 I’ve built several full projects, including:<br><br>* 🛍️ **Touati Store** – a complete eCommerce platform featuring advanced promotion logic, cart/checkout flow, Telegram bot notifications, and full admin control.<br>* 🏫 **School Management Platform** – developed with **Next.js** and **NestJS**, featuring **Docker**, **CI/CD**, and **Prisma** for a professional, scalable architecture.<br>* 🧮 **AHP Calculator** – a React-based decision-making tool built with complex object manipulation and dynamic user interaction logic.<br><br>🎯 My current focus:<br><br>* Mastering **Full Stack Engineering** (Next.js + NestJS).<br>* Advancing my **DevOps** skills (Docker, CI/CD pipelines, and Jest testing).<br>* Sharpening **UI/UX** and automation with **n8n**.<br><br>📚 I’m also preparing for the **IELTS Academic test** and continuously expanding my skills to become a **Senior Full Stack Engineer** capable of delivering end-to-end, production-ready web applications.
 
-<!--
-**nini-btw/nini-btw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DeniDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed denideni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:denidenimohammed@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nini-btw&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nini-btw&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nini-btw&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nini-btw&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
